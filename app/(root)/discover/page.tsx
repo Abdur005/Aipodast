@@ -41,4 +41,4 @@ const Discover = ({ searchParams: { search} }: { searchParams : { search: string
   )
 }
 
-export default Discover
+export default Discover;

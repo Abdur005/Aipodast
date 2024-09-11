@@ -205,4 +205,4 @@ const CreatePodcast = () => {
   )
 }
 
-export default CreatePodcast
+export default CreatePodcast;
