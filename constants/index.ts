@@ -49,7 +49,7 @@ export const podcastData = [
     title: "The Joe Rogan Experience",
     description: "A long form, in-depth conversation",
     imgURL:
-      "https://aware-wildcat-611.convex.cloud/api/storage/kg2bg093tj7tng855b9db7rj6d7g4net",
+      "https://www.freepik.com/free-photo/empty-home-production-studio-with-professional-podcasting-tools-recording-sound-streaming-sites-entertainment-show-live-broadcasting-from-cozy-location-living-room-decorated-with-purple-lights_67045508.htm#fromView=keyword&page=1&position=2&uuid=70d6af28-f0dc-4944-9585-66842d43318f&query=Podcast",
   },
   {
     id: 2,
