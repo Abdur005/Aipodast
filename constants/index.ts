@@ -49,7 +49,7 @@ export const podcastData = [
     title: "The Joe Rogan Experience",
     description: "A long form, in-depth conversation",
     imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/3106b884-548d-4ba0-a179-785901f69806",
+      "https://aware-wildcat-611.convex.cloud/api/storage/kg2bg093tj7tng855b9db7rj6d7g4net",
   },
   {
     id: 2,
